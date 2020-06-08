@@ -31,3 +31,5 @@ MANIFEST
 # DepthAI-Specific
 dataset/
 depthai.calib
+.venv
+depthai.cpython-37m-darwin.so
